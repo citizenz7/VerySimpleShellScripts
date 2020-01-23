@@ -11,5 +11,5 @@ chmod +x system-infos.sh
 ```
 The run the script:
 ```
-sudo sh system-infos.sh
+sh system-infos.sh
 ```
